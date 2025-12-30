@@ -1,0 +1,20 @@
+MEGA DA VIRADA 2025 - WEIGHTED ANALYSIS (ALL DRAWS)
+======================================================================
+
+METHOD 1 - Simple Frequency:
+   04 - 05 - 10 - 33 - 34 - 37 - 38 - 53
+
+METHOD 2 - Recent Draws Weighted MORE (Exponential):
+   10 - 11 - 34 - 35 - 37 - 38 - 46 - 53
+
+METHOD 3 - Recent Draws Weighted MORE (Linear):
+   10 - 11 - 34 - 35 - 37 - 38 - 46 - 53
+
+METHOD 4 - Older Draws Weighted MORE (Historical Stability):
+   04 - 05 - 10 - 23 - 33 - 42 - 53 - 54
+
+METHOD 5 - Last 5 Years Only (2020-2025):
+   10 - 11 - 25 - 32 - 34 - 38 - 46 - 56
+
+FINAL CONSENSUS BET:
+   05 - 10 - 11 - 34 - 37 - 38 - 46 - 53
