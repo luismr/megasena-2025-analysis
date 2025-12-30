@@ -1,10 +1,28 @@
 # Mega Sena Analysis Tool
 
+<!-- Build & Quality -->
 [![CI/CD Pipeline](https://github.com/luismr/megasena-2025-analysis/actions/workflows/ci.yml/badge.svg)](https://github.com/luismr/megasena-2025-analysis/actions/workflows/ci.yml)
+[![Tests](https://img.shields.io/badge/tests-55%20passed-success)](https://github.com/luismr/megasena-2025-analysis)
 [![Coverage](https://img.shields.io/badge/coverage-96%25-brightgreen)](https://github.com/luismr/megasena-2025-analysis)
+[![Code Quality](https://img.shields.io/badge/code%20quality-A-brightgreen)](https://github.com/luismr/megasena-2025-analysis)
+
+<!-- Language & Tools -->
 [![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/downloads/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Linting: flake8](https://img.shields.io/badge/linting-flake8-blue)](https://flake8.pycqa.org/)
+[![Type Checking: mypy](https://img.shields.io/badge/type%20checking-mypy-blue)](http://mypy-lang.org/)
+
+<!-- Repository Stats -->
+[![GitHub stars](https://img.shields.io/github/stars/luismr/megasena-2025-analysis?style=social)](https://github.com/luismr/megasena-2025-analysis/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/luismr/megasena-2025-analysis?style=social)](https://github.com/luismr/megasena-2025-analysis/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/luismr/megasena-2025-analysis)](https://github.com/luismr/megasena-2025-analysis/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/luismr/megasena-2025-analysis)](https://github.com/luismr/megasena-2025-analysis/pulls)
+
+<!-- Activity -->
+[![Last Commit](https://img.shields.io/github/last-commit/luismr/megasena-2025-analysis)](https://github.com/luismr/megasena-2025-analysis/commits)
+[![Repo Size](https://img.shields.io/github/repo-size/luismr/megasena-2025-analysis)](https://github.com/luismr/megasena-2025-analysis)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/luismr/megasena-2025-analysis/graphs/commit-activity)
 
 A comprehensive Python tool for analyzing Mega Sena lottery draws with multiple prediction strategies. Refactored following **DRY (Don't Repeat Yourself)** and **SOLID** principles for maintainability and extensibility.
 
