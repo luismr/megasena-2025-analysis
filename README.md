@@ -326,6 +326,10 @@ A bot will comment with coverage report! 📊
 
 ## 📝 License
 
+MIT License - see the [LICENSE](LICENSE) file for details.
+
+Copyright (c) 2025 Luis Machado Reis
+
 This is a personal analysis tool. Use at your own risk. Lottery is a game of chance.
 
 ## 🍀 Good Luck!
